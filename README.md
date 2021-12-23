@@ -1,4 +1,4 @@
-# c-socket
+# socket(c)
 Socket implementation in C
 
 ### Compile	
